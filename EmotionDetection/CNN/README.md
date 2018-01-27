@@ -1,4 +1,4 @@
-------------------Facial Emotion Recognition Using Convolution Neural Network -----------------------------
+#------------------Facial Emotion Recognition Using Convolution Neural Network -----------------------------
 
 This convolution neural network is based on the http://www.paulvangent.com emotion recognition tutorial and this (https://github.com/PiotrDabrowskey/facemoji) repository. 
 This use ,
@@ -10,7 +10,7 @@ This use ,
     Download haar_cascade files - https://github.com/opencv/opencv/tree/master/data/haarcascades
 05. There is breaf details about face detection using Haar Cascade https://docs.opencv.org/3.3.0/d7/d8b/tutorial_py_face_detection.html
 
------------How to prepare dataset----------------- 
+#-----------How to prepare dataset----------------- 
 01. First download the Cohn Canade Dataset from the above mentioned link.
 02. Extract the downloaded file and it contains two folders called 'cohn-kanade-images' and 'Emotion'
 03. In project location create new two folders called 'source_images' and 'source_emotion'.
