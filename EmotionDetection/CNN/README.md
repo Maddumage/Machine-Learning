@@ -1,3 +1,5 @@
+Reference - van Gent, P. (2016). Emotion Recognition Using Facial Landmarks, Python, DLib and OpenCV. A tech blog about fun things with    Python and embedded electronics. Retrieved from: http://www.paulvangent.com/2016/08/05/emotion-recognition-using-facial-landmarks/
+
 #------------------Facial Emotion Recognition Using Convolution Neural Network -----------------------------
 
 This convolution neural network is based on the http://www.paulvangent.com emotion recognition tutorial and this (https://github.com/PiotrDabrowskey/facemoji) repository. 
