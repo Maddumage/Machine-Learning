@@ -1,11 +1,11 @@
-# Convolution Neural Network - Emotion Recognition
+# 2D-Convolution Neural Network - Emotion Recognition
 This is a 2D-CNN approache for real time emotion recognition using web camera. This CNN include 4 convolution layers and 2 fully connected layers. Final layer has 7 nodes which produce seven emotion (Anger, Disgust, Fear, Happy, Sadness, Surprise, Neutral) values indepedantly between 0-1.
 Fer2013 emotion dataset use for training and it devide into 3 sets such as training (80%), validation (10%) and testing (10%) sets.
 You can download easily Fer2013 data set from https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
 Download the data set dand extract it into dataset folder.
 This take about 8 hours to train using GeForce 940MX 2GB and 8GB RAM, Core i5 processor.
 _________________________________________________________________
-Layer (type)                 Output Shape              Param #   
+Layer (type)                 Output Shape              Param    
 =================================================================
 conv2d_1 (Conv2D)            (None, 48, 48, 64)        640       
 _________________________________________________________________
